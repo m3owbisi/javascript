@@ -1,0 +1,10 @@
+alert("hallo! >__<");
+console.log("welcome, hiral! ;)");
+prompt("do you like 'apna college' ?");
+// console.log(window);
+// window.console.log("hi");
+// window.document;
+// console.dir(window.document);
+// console.dir(document.head);
+// console.dir(document.body);
+// document.body.style.background = "grey";
